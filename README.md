@@ -10,11 +10,10 @@ ANS: When a corpus scales up to 100,000 unique vocabulary words, every single do
 ANS: Document 3 focuses entirely on natural language processing ("Natural language processing helps computers understand human language"). When it is queried against "machine learning algorithms for data", there is zero token overlap between the document and the query terms. Since the dot product in the numerator of the cosine similarity formula evaluates to 0, the final similarity score drops to 0.0000.
 
 
-TASK1 OUTPUT:
-<img width="844" height="296" alt="Capture1" src="https://github.com/user-attachments/assets/101b0ac1-356f-4471-83ad-4339ee60535b" />
 
-TASK2 OUTPUT:
-<img width="1366" height="768" alt="Capture2" src="https://github.com/user-attachments/assets/430ce7ef-166b-4025-bb52-870aeb505d03" />
+TASK1 OUTPUT:<img width="844" height="296" alt="Capture1" src="https://github.com/user-attachments/assets/101b0ac1-356f-4471-83ad-4339ee60535b" />
+
+TASK2 OUTPUT:<img width="1366" height="768" alt="Capture2" src="https://github.com/user-attachments/assets/430ce7ef-166b-4025-bb52-870aeb505d03" />
 
 
 
